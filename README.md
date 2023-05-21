@@ -1,5 +1,4 @@
 # Projeto-capsuladotempo
-## https://edgarbrabo.github.io/Projeto-capsuladotempo/
 
 ### link do deploy https://edgarbrabo.github.io/Projeto-capsuladotempo/
 
